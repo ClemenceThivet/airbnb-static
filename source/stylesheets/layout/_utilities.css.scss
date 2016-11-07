@@ -4,6 +4,15 @@
  * Feel free to change them and create your own
  * ------------------------------------- */
 
+h1 {
+  text-align: center;
+  align-items: center
+}
+
+h3 {
+  color: black;
+}
+
 // Paddings
 .padded {
   padding-top: 5em;
@@ -22,4 +31,8 @@
 }
 .bg-facebook {
   background: #3b5998;
+}
+
+.content {
+  height: 75vh;
 }
